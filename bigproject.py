@@ -43,7 +43,6 @@ print("hei verden")
 
 # Random change: 95
 
-token = "AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa"
 
 # Random change: 4
 
